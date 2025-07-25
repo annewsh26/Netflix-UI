@@ -20,3 +20,5 @@ This is a simple clone of the Netflix homepage, built using HTML, CSS, and JavaS
 - **JavaScript (ES6)** 
 - **Font Awesome / Google Fonts** for icons and typography
 
+- License:This project is Open-source and is available under the MIT license
+
